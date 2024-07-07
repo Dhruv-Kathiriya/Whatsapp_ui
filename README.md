@@ -1,16 +1,40 @@
-# whatsapp_app
+<h1 align="center">
+<img src="./assets/icons/whatsapp-icon.png" height="200px" alt="WhatsApp UI logo"/>
+<br>
+WhatsApp Clone
+</h1>
 
-A new Flutter project.
+A WhatsApp UI clone in flutter (work in progress).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Platforms
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Mobile
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+
+  - Chats
+  - Recent chats list (home screen)
+  - Chat room screen
+  - User profile screen (with animated user dp)
+  - Sent message (with automatic reply)
+  - Message status (pending, delivered, read,..)
+  - Chat search bar
+  - Status
+  - Status list
+  - Recent and viewed updates
+  - Calls
+
+## Screenshots
+
+- ### Mobile
+     <img src="./docs/screenshots/mobile/chat-settings-dark.jpg" alt="chat-settings-dark" height="300" />
+    <img src="./docs/screenshots/mobile/chat-settings-light.jpg" alt="chat-settings-light" height="300" />
+    <img src="./docs/screenshots/mobile/status-screen.jpg" alt="status-screen" height="300" />
+  </p>
+a![whatsapp1](https://github.com/Dhruv-Kathiriya/Whatsapp_ui/assets/150034575/0b07312a-ad15-44d0-98df-cc2ee56cedca)
+
+
+ 
