@@ -30,11 +30,11 @@ A WhatsApp UI clone in flutter (work in progress).
 ## Screenshots
 
 - ### Mobile
-     <img src="./docs/screenshots/mobile/chat-settings-dark.jpg" alt="chat-settings-dark" height="300" />
+     <img src="https://github.com/Dhruv-Kathiriya/Whatsapp_ui/assets/150034575/0b07312a-ad15-44d0-98df-cc2ee56cedca" alt="chat-settings-dark" width="250px" >
     <img src="./docs/screenshots/mobile/chat-settings-light.jpg" alt="chat-settings-light" height="300" />
     <img src="./docs/screenshots/mobile/status-screen.jpg" alt="status-screen" height="300" />
   </p>
-a![whatsapp1](https://github.com/Dhruv-Kathiriya/Whatsapp_ui/assets/150034575/0b07312a-ad15-44d0-98df-cc2ee56cedca)
+
 
 
  
