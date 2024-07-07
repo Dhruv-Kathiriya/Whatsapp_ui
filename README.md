@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="./assets/icons/whatsapp-icon.png" height="200px" alt="WhatsApp UI logo"/>
+<img src="https://img.freepik.com/premium-vector/whatsapp-icon-concept_23-2147897840.jpg" height="200px" alt="WhatsApp UI logo"/>
 <br>
 WhatsApp Clone
 </h1>
