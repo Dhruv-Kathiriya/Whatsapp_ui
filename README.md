@@ -4,7 +4,8 @@
 WhatsApp Clone
 </h1>
 
-A WhatsApp UI clone in flutter (work in progress).
+
+WhatsApp is a free cross-platform messaging service. It lets users of iPhone and Android smartphones and Mac and Windows PC call and exchange text, photo, audio and video messages with others across the globe for free, regardless of the recipient's device.
 
 
 
@@ -30,11 +31,10 @@ A WhatsApp UI clone in flutter (work in progress).
 ## Screenshots
 
 - ### Mobile
-     <img src="https://github.com/Dhruv-Kathiriya/Whatsapp_ui/assets/150034575/0b07312a-ad15-44d0-98df-cc2ee56cedca" alt="chat-settings-dark" width="250px" >
-    <img src="./docs/screenshots/mobile/chat-settings-light.jpg" alt="chat-settings-light" height="300" />
-    <img src="./docs/screenshots/mobile/status-screen.jpg" alt="status-screen" height="300" />
+     <img src="https://github.com/Dhruv-Kathiriya/Whatsapp_ui/assets/150034575/fc0930e9-4c1b-4a99-a53c-55ef188e0b4c" alt="chat-settings-dark" width="250px" >
+    <img src="https://github.com/Dhruv-Kathiriya/Whatsapp_ui/assets/150034575/23f80b09-396f-4828-ac72-23f8cb1e95e9" alt="chat-settings-light" width="250px" />
+    <img src="https://github.com/Dhruv-Kathiriya/Whatsapp_ui/assets/150034575/00504c59-2608-4bd3-9da6-2e2f9e8e45ca" alt="status-screen" width="250px" />
   </p>
-
 
 
  
